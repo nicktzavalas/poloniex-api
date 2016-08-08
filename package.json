@@ -1,0 +1,25 @@
+{
+    "name": "poloniex-api",
+    "version": "0.0.1",
+    "description": "An unofficial Poloniex API client for node.js",
+    "author": "Nick Tzavalas <nick.tzavalas@gmail.com>",
+    "scripts": {},
+    "main": "lib/poloniex-client.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/nicktzavalas/poloniex-api.git"
+    },
+    "bugs": {
+        "url": "https://github.com/nicktzavalas/poloniex-api/issues"
+    },
+    "keywords": [
+        "poloniex",
+        "api",
+        "bitcoin",
+        "btc",
+        "exchange"
+    ],
+    "dependencies": {},
+    "devDependencies": {},
+    "license": "MIT"
+}
